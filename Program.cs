@@ -12,6 +12,11 @@ namespace Week_6___Hello_World
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Hellooooo Diegooooooooo");
+
+
+
+
+            //should only be seen in branch 1
             Console.WriteLine("Hellooooo Branch 1 bro");
 
         }

@@ -11,7 +11,8 @@ namespace Week_6___Hello_World
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
-            Console.WriteLine("Hellooooo Diegooooooooo"); 
+            Console.WriteLine("Hellooooo Diegooooooooo");
+            Console.WriteLine("Hellooooo GGGGGGGGG");
 
         }
     }
